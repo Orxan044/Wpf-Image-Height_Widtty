@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Wpf__Image_Height_Widtty</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\isi butov.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\isi butov.png" />
+  </ItemGroup>
+
+</Project>

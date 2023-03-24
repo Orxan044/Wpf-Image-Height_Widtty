@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf -Image-Height_Widtty", "Wpf -Image-Height_Widtty\Wpf -Image-Height_Widtty.csproj", "{6870FD3B-7EDC-411F-BDCB-52731BDF51FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6870FD3B-7EDC-411F-BDCB-52731BDF51FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6870FD3B-7EDC-411F-BDCB-52731BDF51FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6870FD3B-7EDC-411F-BDCB-52731BDF51FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6870FD3B-7EDC-411F-BDCB-52731BDF51FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EAA47CD-2266-48D2-8D1E-C08DF7B37A3F}
+	EndGlobalSection
+EndGlobal
